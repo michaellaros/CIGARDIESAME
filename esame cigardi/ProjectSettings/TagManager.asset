@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - bersaglio1
+  - bersaglio2
+  - bersaglio3
+  - bersaglio4
+  - spawner
+  - M
+  - G
+  - T
+  - Tosse
+  - ManiSporche
+  - Febbre
+  - Passante
+  - PlayerCamera
+  - ARPlanes
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - post process
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
